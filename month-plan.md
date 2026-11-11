@@ -1,6 +1,6 @@
 # Month-Ahead Meal Plan — November 2026
 
-Same template as the last few weeks: Monday to Saturday each week (Sunday off), lunch, snack and dinner only — no breakfast. Low-carb, kid-friendly, for 2 adults + 2 kids (ages 3 and 6).
+Same template as the last few weeks: Monday to Saturday each week (Sunday off), lunch, snack and dinner only — except for breakfast on Fri Nov 6, Sat Nov 7, and Sun Nov 8. Low-carb, kid-friendly, for 2 adults + 2 kids (ages 3 and 6).
 
 **Budget: $200 per week is a shopping cap to shop against, NOT a promised HEB shelf price.** Each week's grocery estimate below is a planning estimate under that cap, not a shelf-price promise. Prices can move at pickup, and substitutions can change the total.
 
@@ -8,7 +8,7 @@ All 24 dinners are new and different from each other and from her recent dinners
 
 ## Week 1 — Mon 2026-11-02 to Sat 2026-11-07
 
-**Grocery cap: $200. Planning estimate for this week: $188 (under the cap).**
+**Grocery cap: $200. Planning estimate for this week: about $198 (under the cap, with less headroom — see breakfast additions below).**
 
 **Grocery list for this week:**
 - Protein: chicken breast, chicken thighs, ground turkey, salmon, sirloin, chicken tenders
@@ -16,6 +16,13 @@ All 24 dinners are new and different from each other and from her recent dinners
 - Dairy: heavy cream, Parmesan, mozzarella, cheddar, cream cheese, cheese sticks, butter, eggs
 - Pantry/freezer: salsa (no sugar added), marinara (no sugar added), guacamole cups, pepperoni, deli ham, deli turkey, tuna, almond flour
 - Assumes on hand: salt, pepper, basic spices, mayo, olive oil
+
+**Breakfast grocery additions for Nov 6-8 (on top of the Week 1 list above):**
+- 1 dozen extra eggs
+- All-purpose flour, 1 bag
+- Milk, 1/2 gallon
+- The cheddar, butter, and strawberries for these breakfasts are already in the Week 1 list.
+- Planning note: these additions are about $10 against the cap, bringing the Week 1 planning estimate from $188 to about $198 — still under the $200 cap, but with less headroom, and shelf prices can move at pickup.
 
 ### Monday, November 2, 2026 — 2026-11-02
 
@@ -51,6 +58,7 @@ All 24 dinners are new and different from each other and from her recent dinners
 
 ### Friday, November 6, 2026 — 2026-11-06
 
+- **Breakfast:** Cheesy scrambled eggs with berries
 - **Lunch:** Tuna melts on bell-pepper boats
 - **Snack:** Pepperoni chips + guacamole cup
 - **Dinner:** Garlic Butter Steak Bites with Green Beans
@@ -59,11 +67,63 @@ All 24 dinners are new and different from each other and from her recent dinners
 
 ### Saturday, November 7, 2026 — 2026-11-07
 
+- **Breakfast:** Egg and cheese breakfast cups
 - **Lunch:** Turkey & cream cheese pinwheels + cucumber rounds
 - **Snack:** Thin apple slices + cheese cubes
 - **Dinner:** Almond-Crusted Chicken Tenders with Cauliflower Mac and Cheese
 
   **Dinner recipe:** SERVES 4. You need: 1 1/2 lb chicken tenders; 1 cup almond flour; 1/2 cup grated Parmesan; 1 egg, beaten; 1 head cauliflower, cut into florets; 1 cup shredded cheddar; 2 tbsp cream cheese; 2 tbsp butter. 1. Heat oven to 425F. Mix almond flour and Parmesan. Dip tenders in egg, then coating, place on a lined pan. 2. Bake 15-18 minutes until golden and cooked through. 3. Meanwhile steam cauliflower 10 minutes, stir with butter, cream cheese and cheddar until melted and creamy. 4. Serve tenders with cauliflower mac. Cut tenders into strips for the 3-year-old. Keep the kid apple portion small.
+
+### Sunday, November 8, 2026 — 2026-11-08
+
+- **Breakfast:** Regular pancakes with strawberries
+
+  **Breakfast recipes for Fri Nov 6 – Sun Nov 8 (serves 4, simple, kid-friendly):**
+
+  **Friday — Cheesy scrambled eggs with berries**
+  SERVES 4 · About 15 minutes
+  You need:
+  - 8 eggs
+  - 1 cup shredded cheddar
+  - 2 tbsp butter
+  - Strawberries, for serving
+  Directions:
+  1. Melt the butter in a skillet over medium heat.
+  2. Whisk the eggs with a pinch of salt, pour them in, and stir gently until just set.
+  3. Stir in the cheddar until melted.
+  4. Serve with strawberries. Cut the eggs small for the 3-year-old.
+
+  **Saturday — Egg and cheese breakfast cups**
+  SERVES 4 · About 25 minutes
+  You need:
+  - 8 eggs
+  - 1 cup shredded cheddar
+  - 1 tbsp butter, for the pan
+  Directions:
+  1. Heat the oven to 350F and grease a 12-cup muffin tin.
+  2. Whisk the eggs with a pinch of salt and stir in most of the cheddar.
+  3. Fill the cups about three-quarters full and top with the rest of the cheddar.
+  4. Bake 15-18 minutes until set in the middle.
+  5. Cool a few minutes before serving. These are easy to reheat the next morning.
+
+  **Sunday — Regular pancakes with strawberries**
+  SERVES 4 · About 20 minutes
+  You need:
+  - 2 cups all-purpose flour
+  - 2 tbsp sugar
+  - 2 tsp baking powder
+  - 1/2 tsp salt
+  - 2 eggs
+  - 1 1/2 cups milk
+  - 2 tbsp melted butter, plus more for the pan
+  - Strawberries, sliced, for serving
+  Directions:
+  1. Stir the flour, sugar, baking powder, and salt together in a bowl.
+  2. Whisk the eggs and milk together, then stir into the dry ingredients with the melted butter. A few small lumps are fine.
+  3. Melt a little butter in a skillet over medium heat.
+  4. Pour in small pancakes and cook 2-3 minutes, until bubbles form on top.
+  5. Flip and cook 1-2 minutes more, until golden.
+  6. Serve with strawberries. Make the kids' pancakes small.
 
 ## Week 2 — Mon 2026-11-09 to Sat 2026-11-14
 
@@ -126,62 +186,64 @@ All 24 dinners are new and different from each other and from her recent dinners
 
 ## Week 3 — Mon 2026-11-16 to Sat 2026-11-21
 
-**Grocery cap: $200. Planning estimate for this week: $187 (under the cap).**
+**Grocery cap: $200. Planning estimate for this week: about $180 (under the cap).**
+
+Rebuilt 2026-11-11 at Mercedes's request — all-new meals, none repeated from Weeks 1–2, Week 4, or the October plans, with more fruit across lunches and snacks.
 
 **Grocery list for this week:**
-- Protein: chicken thighs, ground beef, ground turkey, salmon, shrimp
-- Produce: Brussels sprouts, cabbage, zucchini, green beans, lettuce, cucumbers, berries, celery, tomatoes, onion, mushrooms, carrots
-- Dairy: ricotta, mozzarella, Parmesan, cheddar, cream cheese, cheese sticks, butter, eggs, sour cream or plain Greek yogurt
-- Pantry/freezer: marinara (no sugar added), tamari or soy sauce, guacamole cups, pepperoni, deli ham, deli turkey, tuna, almond flour, cauliflower rice
-- Assumes on hand: salt, pepper, basic spices, mayo, olive oil, ginger, sesame oil
+- Protein: chicken breast (3 lb), beef chuck roast (2 lb), ground turkey (1 1/2 lb), boneless chicken thighs (2 lb), ground beef (1 1/2 lb), bacon (12 oz), deli turkey, deli ham
+- Produce: green beans, lemons, carrots, celery, cauliflower (2 heads or bags), baby spinach, onion, red bell pepper, lettuce, cucumbers, oranges, apples, grapes, cantaloupe, peaches, mixed berries, basil, cherry tomatoes, avocado
+- Dairy: butter, Parmesan, Monterey Jack or cheddar, mozzarella balls, cream cheese, cheese sticks, Greek yogurt, eggs
+- Pantry/freezer: almond flour, capers, chicken broth, beef broth, canned diced tomatoes, red enchilada sauce (no sugar added), tomato paste, coconut milk, mild curry powder, peanut butter, Caesar dressing, low-carb tortilla wraps (1 pack), frozen cauliflower rice (2 bags)
+- Assumes on hand: salt, pepper, basic spices, mayo, olive oil
 
 ### Monday, November 16, 2026 — 2026-11-16
 
-- **Lunch:** Ham & cheese roll-ups + cucumber rounds
-- **Snack:** Cheese cubes + cucumber with pickle dip
-- **Dinner:** Lemon Herb Roast Chicken Thighs with Brussels Sprouts
+- **Lunch:** BLT Low-Carb Wraps + orange segments
+- **Snack:** Mixed berries + Greek yogurt dip
+- **Dinner:** Chicken Piccata with Green Beans
 
-  **Dinner recipe:** SERVES 4. You need: 2 lb bone-in chicken thighs; 1 lb Brussels sprouts, halved; 2 tbsp olive oil; juice of 1 lemon; 2 cloves garlic, minced; 1 tsp dried thyme. 1. Heat oven to 425F. Toss sprouts with half the oil and salt on a sheet pan. 2. Rub chicken with remaining oil, lemon, garlic and thyme, place skin-side up on the pan. 3. Roast 30-35 minutes until chicken reaches 165F and sprouts are golden at the edges. 4. Pull chicken off the bone and cut small for the kids.
+  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb chicken breast, sliced thin; 1/2 cup almond flour; 3 tbsp butter; 2 cloves garlic, minced; juice of 1 lemon; 1/2 cup chicken broth; 2 tbsp capers, drained; 1 lb green beans, trimmed. 1. Coat chicken slices lightly in almond flour. 2. Cook in a buttered skillet 3-4 minutes per side until golden, remove. 3. Cook garlic 1 minute, add broth, lemon juice and capers, simmer 3 minutes. 4. Steam or saute green beans 5-6 minutes until just tender. 5. Return chicken to the sauce, spoon over, serve with green beans. Cut chicken small for the kids.
 
 ### Tuesday, November 17, 2026 — 2026-11-17
 
-- **Lunch:** Turkey & cream cheese pinwheels
-- **Snack:** Celery boats with cream cheese
-- **Dinner:** Ground Beef and Cabbage Skillet with Soy and Ginger
+- **Lunch:** Chicken Caesar Low-Carb Wraps + cucumber rounds
+- **Snack:** Orange segments + cheese stick
+- **Dinner:** Slow-Cooker Beef and Vegetable Stew
 
-  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb ground beef; 1/2 head cabbage, shredded (about 4 cups); 3 tbsp tamari or low-sodium soy sauce; 1 tsp grated fresh ginger; 2 cloves garlic, minced; 1 tbsp sesame oil; 2 green onions, sliced. 1. Brown beef 6-8 minutes, drain fat. 2. Add cabbage, soy, ginger and garlic, cook 6-8 minutes, stirring, until cabbage is just tender. 3. Drizzle with sesame oil, top with green onions. 4. Serve in bowls, with small pieces for the kids.
+  **Dinner recipe:** SERVES 4. You need: 2 lb beef chuck roast, cut into cubes; 2 carrots, diced; 2 celery stalks, diced; 1 small onion, diced; 2 cups cauliflower florets, cut small; 1 can (14 oz) diced tomatoes; 4 cups beef or chicken broth; 2 cloves garlic, minced; 1 tsp Italian seasoning. 1. Brown beef in an oiled pot 5-6 minutes, remove. 2. Cook onion, carrots and celery 5 minutes, add garlic 1 minute. 3. Return beef, add tomatoes, broth and seasoning, simmer covered 45 minutes. 4. Stir in cauliflower, simmer 10 minutes more until tender. Cut beef and vegetables small for the kids.
 
 ### Wednesday, November 18, 2026 — 2026-11-18
 
-- **Lunch:** Chicken salad lettuce cups
-- **Snack:** Thin apple slices + cheese cubes
-- **Dinner:** Zucchini Lasagna
+- **Lunch:** Turkey & Avocado Cucumber Boats + apple slices
+- **Snack:** Apple slices + peanut butter
+- **Dinner:** Turkey Meatball Soup with Spinach and Parmesan
 
-  **Dinner recipe:** SERVES 4. You need: 3 large zucchini, sliced lengthwise into thin planks; 1 lb ground beef or turkey; 1 1/2 cups no-sugar-added marinara; 1 cup ricotta; 1 egg; 1 1/2 cups shredded mozzarella; 1/4 cup grated Parmesan; 1 tsp Italian seasoning. 1. Heat oven to 375F. Salt zucchini planks, rest 10 minutes, pat dry. 2. Brown meat, stir in marinara and seasoning, simmer 5 minutes. 3. Mix ricotta with egg. Layer in a baking dish: sauce, zucchini, ricotta, mozzarella, repeat, finishing with mozzarella and Parmesan. 4. Bake 25-30 minutes, rest 10 minutes before cutting. Keep the kid apple portion small.
+  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb ground turkey; 1/3 cup grated Parmesan; 1 egg; 1 tsp Italian seasoning; 4 cups chicken broth; 2 cups baby spinach; 2 carrots, diced small; 1 small onion, diced; 1 tbsp olive oil. 1. Mix turkey, Parmesan, egg and seasoning, form 16 small meatballs. 2. Cook onion and carrots in oil 5 minutes. 3. Add broth, bring to a simmer, drop in meatballs, simmer 12 minutes. 4. Stir in spinach until wilted, serve topped with extra Parmesan. Cut meatballs in half for the 3-year-old.
 
 ### Thursday, November 19, 2026 — 2026-11-19
 
-- **Lunch:** Turkey & cheese kabob boxes
-- **Snack:** Berries + cheese stick
-- **Dinner:** Salmon Patties with Lemon Dill Sauce and Green Beans
+- **Lunch:** Ham & Cheese Stuffed Cucumbers + grapes
+- **Snack:** Grapes + cheese cubes
+- **Dinner:** Baked Chicken Enchilada Casserole
 
-  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb cooked salmon, flaked, or 3 cans salmon, drained; 1 egg; 1/3 cup almond flour; 2 tbsp chopped dill; 1 lb green beans, trimmed; 1/2 cup sour cream or plain Greek yogurt; juice of 1/2 lemon. 1. Mix salmon, egg, almond flour and half the dill, form 8 patties. 2. Cook in an oiled skillet 3-4 minutes per side until golden. 3. Steam or saute green beans 5-6 minutes until just tender. 4. Mix sour cream with lemon and remaining dill for sauce. Serve patties broken into small pieces for the kids, with sauce for dipping.
+  **Dinner recipe:** SERVES 4. You need: 2 lb boneless chicken thighs; 1 can (10 oz) red enchilada sauce (no sugar added); 2 cups frozen cauliflower rice; 1 cup shredded Monterey Jack or cheddar; 1 small onion, diced; 1 tsp cumin. 1. Heat oven to 375F. Simmer chicken in water 15 minutes until cooked, shred. 2. Mix chicken with half the sauce, cumin and onion. 3. Spread cauliflower rice in a baking dish, top with chicken, remaining sauce and cheese. 4. Bake 15-20 minutes until bubbly. Cut chicken small for the kids.
 
 ### Friday, November 20, 2026 — 2026-11-20
 
-- **Lunch:** Egg salad + veggie sticks
-- **Snack:** Hard-boiled egg halves + cucumber
-- **Dinner:** Turkey Meatballs in Marinara over Zucchini Noodles
+- **Lunch:** Caprese Chicken Low-Carb Wraps + melon cubes
+- **Snack:** Cantaloupe cubes + cheese stick
+- **Dinner:** Shepherd's Pie with Cauliflower Mash
 
-  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb ground turkey; 1/3 cup grated Parmesan; 1 egg; 1 tsp Italian seasoning; 1 1/2 cups no-sugar-added marinara; 4 cups zucchini noodles. 1. Heat oven to 400F. Mix turkey, Parmesan, egg and seasoning, form 16 small meatballs. 2. Bake 15-18 minutes until cooked through. 3. Warm marinara, add meatballs, simmer 5 minutes. 4. Warm zucchini noodles 2 minutes, top with meatballs and sauce. Cut meatballs in half for the 3-year-old.
+  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb ground beef; 2 carrots, diced small; 1 cup green beans, cut small; 1 small onion, diced; 1 cup beef broth; 1 tbsp tomato paste; 1 head cauliflower or 1 bag frozen florets; 2 tbsp butter; 2 tbsp cream cheese; 1/2 cup shredded cheddar. 1. Heat oven to 400F. Steam cauliflower 10-12 minutes, mash with butter and cream cheese. 2. Brown beef with onion 6-8 minutes, drain fat. 3. Stir in carrots, green beans, broth and tomato paste, simmer 10 minutes. 4. Spoon beef into a baking dish, spread mash over, top with cheddar, bake 15 minutes until golden. Cut vegetables small for the kids.
 
 ### Saturday, November 21, 2026 — 2026-11-21
 
-- **Lunch:** Tuna melts on bell-pepper boats
-- **Snack:** Pepperoni chips + guacamole cup
-- **Dinner:** Garlic Butter Shrimp with Roasted Zucchini and Cauliflower Rice
+- **Lunch:** Deli Board Lunch Plate + berries
+- **Snack:** Peach slices + Greek yogurt dip
+- **Dinner:** Mild Chicken and Vegetable Curry with Cauliflower Rice
 
-  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb peeled shrimp; 2 zucchini, cut into half-moons; 4 cups frozen cauliflower rice; 3 tbsp butter; 3 cloves garlic, minced; juice of 1/2 lemon. 1. Heat oven to 425F, toss zucchini with oil and salt, roast 15 minutes. 2. Cook cauliflower rice 4-5 minutes until hot. 3. Cook shrimp in butter and garlic 2-3 minutes per side until pink, add lemon. 4. Serve shrimp and zucchini over cauliflower rice, shrimp cut in half for the 3-year-old.
+  **Dinner recipe:** SERVES 4. You need: 1 1/2 lb chicken breast, cut into pieces; 1 can (13.5 oz) coconut milk; 1 tbsp mild curry powder; 1 red bell pepper, diced; 1 cup green beans, cut small; 1 small onion, diced; 2 cloves garlic, minced; 1 tbsp olive oil; 4 cups frozen cauliflower rice. 1. Cook onion and garlic in oil 3 minutes. 2. Add chicken and curry powder, cook 5 minutes. 3. Stir in coconut milk, pepper and green beans, simmer 12-15 minutes until chicken is cooked. 4. Cook cauliflower rice 4-5 minutes, serve curry over it. Keep it mild for the kids.
 
 ## Week 4 — Mon 2026-11-23 to Sat 2026-11-28
 
